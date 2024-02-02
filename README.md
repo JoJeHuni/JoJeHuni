@@ -1,7 +1,3 @@
-### Hi there 👋
-
----
-
 [![JoJeHuni's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoJeHuni&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/JoJeHuni/github-readme-stats)
 
 <!--
